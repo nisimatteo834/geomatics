@@ -21,10 +21,10 @@ b8 = 1097*e1^4/512;
 csi = theta + b2*sin(2*theta)+b4*sin(4*theta)+b6*sin(6*theta)+b8*sin(8*theta);
 
 efirstsquare = (a^2 - c^2)/c^2;
-ni = sqrt(1+efirstsquare*(cos(csi))^2);
+ni = sqrt(1+efirstsquare*((cos(csi))^2));
 
 Rp = a^2/c;
-lambdafirst = atan((ni*sinh(x/Rp)/cos(csi)));
+lambdafirst = atan(ni*sinh(x/Rp)/cos(csi));
 fi = atan(tan(csi)*cos(lambdafirst*ni));
 lambda = lambdafirst + central_meridian;
 
