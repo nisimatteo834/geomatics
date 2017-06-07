@@ -1,0 +1,4 @@
+Point Id,Point Class,Date/Time,Latitude,Longitude,Ellip. Hgt.,Ortho. Hgt.,Geoid Sep.,Posn. + Hgt. Qlty
+TORI,Control,05/17/2017 14:59:42,45° 03' 48.11273" N,7° 39' 40.59944" E,310.7495,-,-,0.0000
+Virtual Rinex,Control,05/17/2017 14:59:42,45° 03' 44.00000" N,7° 39' 48.00000" E,310.0000,-,-,0.0000
+igm,Averaged,05/17/2017 18:07:13,45° 03' 43.55550" N,7° 39' 48.00535" E,295.1052,-,-,0.0001
